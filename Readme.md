@@ -1,6 +1,6 @@
 # Welcome to the World of Guana
 
-- [Origin Story of Guana \& its factions](_Storyline/01_Origin_Story_and_Factions)
+- [Origin Story of Guana \& its factions](_Storyline/01_Origin_Story_and_Factions.md)
 - [Storyline \& Quests](_Storyline/10_Storyline_and_Quests.md)
 - [Monster \& Biomes](_Storyline/15_Monsters_and_Biomes.md)
 
