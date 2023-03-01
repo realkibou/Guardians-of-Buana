@@ -12,4 +12,4 @@ The world is inhabited by humans and sentient animals alike as well as "lower" g
 - Shyama, the Godess of Darkness.
 
 ## Factions
-#### 
+###

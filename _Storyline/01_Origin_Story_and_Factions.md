@@ -1,5 +1,6 @@
+# Origin Story of Guana & its factions
 
-- [Origin Story of Guana](#origin-story-of-guana)
+- [Origin Story of Guana \& its factions](#origin-story-of-guana--its-factions)
   - [1st Epoch - The Beginning](#1st-epoch---the-beginning)
     - [Khanike, the Godess of War](#khanike-the-godess-of-war)
     - [Shyama, the Godess of Darkness](#shyama-the-godess-of-darkness)
@@ -26,7 +27,6 @@
   - [The Caravan Guild / Merchants](#the-caravan-guild--merchants)
   - [The Gruumshar / Orcish](#the-gruumshar--orcish)
 
-# Origin Story of Guana
 ## 1st Epoch - The Beginning
 It is believed that when *The Four-Headed Creator* who goes by many names (Hindu: Brahma, Chinese: Simianshen, Japan: Bonten; Tibetan: Fantian), the embodiment of time and everything itself, opened his eyes, the universe came into existence out of nothing. There was no before, it all began right there and then.
 

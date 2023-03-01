@@ -1,3 +1,20 @@
+# Storyline & Quests
+- [Storyline \& Quests](#storyline--quests)
+- [3rd Epoch](#3rd-epoch)
+  - [Session 1 - The ship \& MONSTER 600 XP](#session-1---the-ship--monster-600-xp)
+  - [Session 2 - The Crashlanding 600 XP](#session-2---the-crashlanding-600-xp)
+  - [Session 3 - Arrival in Tirtakencana Investigation of the Darkness in the North - 1200 XP](#session-3---arrival-in-tirtakencana-investigation-of-the-darkness-in-the-north---1200-xp)
+  - [Session 4 - 1700 XP](#session-4---1700-xp)
+  - [Session 5](#session-5)
+  - [Session 6](#session-6)
+  - [Session 7](#session-7)
+  - [Session 8 - Epic conclusion, incompletion and emotions of loss \& hopelessness, but a gimps of hope](#session-8---epic-conclusion-incompletion-and-emotions-of-loss--hopelessness-but-a-gimps-of-hope)
+- [Quests](#quests)
+  - [The dark markings and missing daugther](#the-dark-markings-and-missing-daugther)
+  - [The Nourishers' Call - Gather Info of Pullution](#the-nourishers-call---gather-info-of-pullution)
+  - [Side Quests](#side-quests)
+  - [Faction Quests](#faction-quests)
+
 # 3rd Epoch
 Shyama, the Godess of Darkness, is gaining more followers and power. Once she has enough, the 3rd epoch will end and the 4th will start. This cannot be stopped as it will be happening in the background, however the effects will be noticed by the players.
 
