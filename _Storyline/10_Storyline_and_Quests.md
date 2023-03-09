@@ -1,6 +1,7 @@
 # Storyline & Quests
 - [Storyline \& Quests](#storyline--quests)
 - [3rd Epoch](#3rd-epoch)
+  - [Prolog - World of Buana](#prolog---world-of-buana)
   - [Session 1 - The ship \& MONSTER 600 XP](#session-1---the-ship--monster-600-xp)
   - [Session 2 - The Crashlanding 600 XP](#session-2---the-crashlanding-600-xp)
   - [Session 3 - Arrival in Tirtakencana Investigation of the Darkness in the North - 1200 XP](#session-3---arrival-in-tirtakencana-investigation-of-the-darkness-in-the-north---1200-xp)
@@ -18,6 +19,26 @@
 # 3rd Epoch
 Shyama, the Godess of Darkness, is gaining more followers and power. Once she has enough, the 3rd epoch will end and the 4th will start. This cannot be stopped as it will be happening in the background, however the effects will be noticed by the players.
 
+## Prolog - World of Buana
+Welcome to World of Buana. A new world there were lush jungles, sparkling beaches, and big cities full of people and creatures. Each place had its own special ways of living and its own unique customs.
+
+Full of majestic mountains, winding rivers, and dense forests, all of which are home to a wide variety of flora and fauna, Buana is truly a gem of natures beauty. The jungles of Buana are particularly noteworthy, as they are filled with exotic creatures like giant snakes, colorful birds and many other mystical things not yet discovered or hidden away and forgotten about.
+
+That is because: Where is there is light there is darkness. Buana is not without its dangers. Deadly predators, and the seas are home to fearsome sea monsters. Even the cities of Buana can be dangerous places, as political intrigue and criminal activity are common.
+
+---
+Right now you all are on a sailing boat heading to auspicious world. You smell tThe salt-laden air mixed with the smell of fresh tar on the ship's deck, creating a heady aroma that seemed to invigorate the senses. You hear the sailors shout orders to one another ("Belay that line! Trim the sail!"), the creaking of the wooden planks beneath their feet echoing across the water.
+
+As the ship gained momentum, the sounds of the waves slapping against the sides of the vessel grew louder. The rhythmic motion of the boat created a hypnotic sway, and the gentle rocking caused the sailors to adjust their footing to maintain their balance.
+
+The boat sailing to the great city of Tirtakencana. You have heard legends about this city where the phrase "Water is life and holy" really comes into effect. It is the capital of the so called The Nourishers. They worship the god Keshava, the God of Nourishment and Healing. Water in their believe contains the spirit of Keshava and needs to be protected.
+
+What brings you here is only known to you maybe its the promise of new knowledge, new magical powers, fortune, courisoty or does something dark unable to describe pulls you there? Only you can know.
+
+Onboard the ship, the crew was bustling with activity. The cook was preparing a hearty meal in the galley, the smell of spices and stew filling the air. The captain barked out orders from the helm, and the first mate scurried around the deck, making sure everything was in order.
+
+Underdeck where also the quarters are, are many people and creates alike. Some of them already sick gaunt from their long jorney. But you see in all their eyes hope for the new.
+
 ## Session 1 - The ship & MONSTER 600 XP
 Objective: The group learns a bit about the factions, the factions' interests, religions and in general what the new world promises.
 
@@ -30,17 +51,17 @@ The group consists of individual travelers coming by ship to Tirtakencana. There
 The factions or the idea of them are present with the other travelers. Some come specifically for that. One of the arrivals is talking about the end. The end is near, and they will be all part of it. He is going crazy and is locked up (Disciples of Darkness).
 
 NPC:
-- Head of the DoD-Recruiters
-- Head of the WF-Recruiters
-- *MESSENGER*
+- Head of the DoD-Recruiters [Khonemany], male
+- Head of the WF-Recruiters [Altanchimeg], female
+- Akmen Glee, messanger
 
 Quests 75 XP:
-- Easy 4x75 = 300 XP to Medium if they fight: Get knowledge of something/find someone. Maybe they get a note from the DoD "Looking for power and up your skills? Find me in the back of the ship" If they go the recruiter will tell them that there is one person on board (*MESSENGER*) that carries something of great interest. They should find out who that is and tell/bring the item to the recruiter. When they try to steal it from *MESSENGER* he will try to confince them with his life, that this is more important to than anything in this world to bring it. They worst case have to fight and kill him.
+- Easy 4x75 = 300 XP to Medium if they fight: Get knowledge of something/find someone. Maybe they get a note from the DoD "Looking for power and up your skills? Find me in the back of the ship" If they go the recruiter (Simok, Drow, pride, honor and has a certain weight to his voice, quite convincing voice) will tell them that there is one person on board ([AkmenGlee], Common, Human, dressed grey, rather poor, he is protecting the box he carries with his life, he signed up for a delivery quest, but the amount of gold that he needs for his family is huge. He was instructed to trust noone. He also carries a note with an address of where to delivery the box.) that carries something of great interest. They should find out who that is and tell/bring the item to the recruiter. When they try to steal it from Akmen Glee he will try to convince them with his life, that this is more important to than anything in this world to bring it. They worst case have to fight and kill him.
 
 Fight 525XP:
-- Med 4x150 = 600XP: Some of the immigrants are recruiter for the different factions. They are highly competetive, so the group notices some yelling that starts into a brawl between the recruiters of (Disciples of Darkness) and (The Warforged). The group is free to stop the both partis from fighting. Those two will group will eventuall get locked up. (Later when the ship beaches, they have a chance to go back for them).
-- Hard 4x225 = 1100 XP: Against a *MONSTER* that is attacking the ship. Many people are thrown of board. Eventually the *MONSTER* is fought of, but the ship is not in control anymore as the ruder is heading with high speed towards the riff and shore.
-- Med 4x150 = 600XP: The characters have a bit of time to act and maybe gain control of the ship
+- Med 4x150 = 600XP: (2x Thugs, 4x Bandits) Some of the immigrants are recruiter for the different factions. They are highly competetive, so the group notices some yelling that starts into a brawl between the recruiters of (Disciples of Darkness [Khonemany]) and (The Warforged, [Altanchimeg]). The group is free to stop the both partis from fighting. Those two will group will eventuall get locked up. (Later when the ship beaches, they have a chance to go back for them).
+- Hard 4x225 = 1100 XP: (Chuul) Against a Chuul that is attacking the ship. Many people are thrown of board. Eventually the Chuul is fought of, but the ship is not in control anymore as the ruder is heading with high speed towards the riff and shore.
+- Med 4x150 = 600XP: The characters have a bit of time to act and maybe gain control of the ship before it crashes. 
 
 Conclusion:
 The ship never will make it to it original destination  Tirtakencana. It crashlands east to Danau Tirtaken on the east of the small Peninsula.
@@ -51,7 +72,7 @@ Objective: Group learns about how to travel and that preperation is key. Establi
 Summary:
 The group has to gather resources from the wreck and prepare for land travel to Tirtakencana. The group can take other NPC's under their wing or embark alone.
 
-When going through the wreckage they will find a magically sealed box, that looks like nothing but has a letter with it OR an *MESSENGER* NPC will urgently ask them for help to bring it to the capital. They don't know what it is, they just took it for transport, but it is of critically important that it gets there. They drop the item off. (It will be ultimately be transported to Pattana Nana for futher investigation.)
+When going through the wreckage they will find a magically sealed box, that looks like nothing but has a letter with it OR an Akmen Glee NPC will urgently ask them for help to bring it to the capital. They don't know what it is, they just took it for transport, but it is of critically important that it gets there. They drop the item off. (It will be ultimately be transported to Pattana Nana for futher investigation.)
 
 Setting:
 Thick jungle forest along the lake. They can see the city in the distance if they make it to the west side of the peninsula.
@@ -61,11 +82,11 @@ NPC:
 
 Quests 600 XP:
 - Med 4x150 = 600 XP: Successful delivery of the parcel
-- Med 4x150 = 600 XP: If they nourish and help people that make it also to the town.
+- Hard 4x225XP = 1100 XP: If they help people, someone gets bitten by a snake and need to be stabalized. If they nourish and help people and they make it also to the town. Make thr survival of the group thr hard encounter, and make the NPCs normal people, clumsy as well
 
 Fights:
-- Easy 4x75 = 300 XP: Someone gets bitten by a snake.
-- Hard 4x225XP = 1100 XP: Fight with something at Entrance to the City
+- Easy 4x75 = 300 XP: 3x Giant Poisonous Snakes that have to be fought if they walk careless, or that can be circumvented if they are aware and clever.
+- Med 4x150 = 600 XP: 
 
 Conclusion:
 The group arrives at the capital city and can get some rest and level up.
