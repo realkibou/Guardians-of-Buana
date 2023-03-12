@@ -27,7 +27,7 @@ Full of majestic mountains, winding rivers, and dense forests, all of which are 
 That is because: Where is there is light there is darkness. Buana is not without its dangers. Deadly predators, and the seas are home to fearsome sea monsters. Even the cities of Buana can be dangerous places, as political intrigue and criminal activity are common.
 
 ---
-Right now you all are on a sailing boat heading to auspicious world. You smell tThe salt-laden air mixed with the smell of fresh tar on the ship's deck, creating a heady aroma that seemed to invigorate the senses. You hear the sailors shout orders to one another ("Belay that line! Trim the sail!"), the creaking of the wooden planks beneath their feet echoing across the water.
+Right now you all are on a sailing boat heading to auspicious world. You smell the salt-laden air mixed with the smell of fresh tar on the ship's deck, creating a heady aroma that seemed to invigorate the senses. You hear the sailors shout orders to one another ("Belay that line! Trim the sail!"), the creaking of the wooden planks beneath their feet echoing across the water.
 
 As the ship gained momentum, the sounds of the waves slapping against the sides of the vessel grew louder. The rhythmic motion of the boat created a hypnotic sway, and the gentle rocking caused the sailors to adjust their footing to maintain their balance.
 
@@ -53,18 +53,18 @@ The factions or the idea of them are present with the other travelers. Some come
 NPC:
 - Head of the DoD-Recruiters [Khonemany], male
 - Head of the WF-Recruiters [Altanchimeg], female
-- Akmen Glee, messanger
+- [AkmenGlee], messanger
 
 Quests 75 XP:
-- Easy 4x75 = 300 XP to Medium if they fight: Get knowledge of something/find someone. Maybe they get a note from the DoD "Looking for power and up your skills? Find me in the back of the ship" If they go the recruiter (Simok, Drow, pride, honor and has a certain weight to his voice, quite convincing voice) will tell them that there is one person on board ([AkmenGlee], Common, Human, dressed grey, rather poor, he is protecting the box he carries with his life, he signed up for a delivery quest, but the amount of gold that he needs for his family is huge. He was instructed to trust noone. He also carries a note with an address of where to delivery the box.) that carries something of great interest. They should find out who that is and tell/bring the item to the recruiter. When they try to steal it from Akmen Glee he will try to convince them with his life, that this is more important to than anything in this world to bring it. They worst case have to fight and kill him.
+- GIVEN Easy 4x75 = 300 XP to Medium if they fight: Get knowledge of something/find someone. Maybe they get a note from the DoD "Looking for power and up your skills? Find me in the back of the ship"  If they go the recruiter ([Simok], Drow, pride, honor and has a certain weight to his voice, quite convincing voice) will tell them that there is one person on board ([Akmen Glee], Common, Human, dressed grey, rather poor, he is protecting the box he carries with his life, he signed up for a delivery quest, but the amount of gold that he needs for his family is huge. He was instructed to trust noone. He also carries a note with an address of where to delivery the box.) that carries something of great interest. They should find out who that is and tell/bring the item to the recruiter. When they try to steal it from Akmen Glee he will try to convince them with his life, that this is more important to than anything in this world to bring it. They worst case have to fight and kill him.
 
 Fight 525XP:
-- Med 4x150 = 600XP: (2x Thugs, 4x Bandits) Some of the immigrants are recruiter for the different factions. They are highly competetive, so the group notices some yelling that starts into a brawl between the recruiters of (Disciples of Darkness [Khonemany]) and (The Warforged, [Altanchimeg]). The group is free to stop the both partis from fighting. Those two will group will eventuall get locked up. (Later when the ship beaches, they have a chance to go back for them).
-- Hard 4x225 = 1100 XP: (Chuul) Against a Chuul that is attacking the ship. Many people are thrown of board. Eventually the Chuul is fought of, but the ship is not in control anymore as the ruder is heading with high speed towards the riff and shore.
-- Med 4x150 = 600XP: The characters have a bit of time to act and maybe gain control of the ship before it crashes. 
+- NOT GIVEN BECAUSE NOT ENGANGED Med 4x150 = 600XP: (2x Thugs, 4x Bandits) Some of the immigrants are recruiter for the different factions. They are highly competetive, so the group notices some yelling that starts into a brawl between the recruiters of (Disciples of Darkness [Khonemany]) and (The Warforged, [Altanchimeg]). The group is free to stop the both partis from fighting. Those two will group will eventuall get locked up. (Later when the ship beaches, they have a chance to go back for them).
+- GIVEN Hard 4x225 = 1100 XP: (Chuul) Against a Chuul that is attacking the ship. Many people are thrown of board. Eventually the Chuul is fought of, but the ship is not in control anymore as the ruder is heading with high speed towards the riff and shore.
+- GIVEN Med 4x150 = 600XP: The characters have a bit of time to act and maybe gain control of the ship before it crashes.
 
 Conclusion:
-The ship never will make it to it original destination  Tirtakencana. It crashlands east to Danau Tirtaken on the east of the small Peninsula.
+The ship never will make it to it original destination Tirtakencana. It crashlands east to Danau Tirtaken on the east of the small Peninsula.
 
 ## Session 2 - The Crashlanding 600 XP
 Objective: Group learns about how to travel and that preperation is key. Establish that there is a mysterious item in the world that they should transport.
@@ -72,45 +72,56 @@ Objective: Group learns about how to travel and that preperation is key. Establi
 Summary:
 The group has to gather resources from the wreck and prepare for land travel to Tirtakencana. The group can take other NPC's under their wing or embark alone.
 
-When going through the wreckage they will find a magically sealed box, that looks like nothing but has a letter with it OR an Akmen Glee NPC will urgently ask them for help to bring it to the capital. They don't know what it is, they just took it for transport, but it is of critically important that it gets there. They drop the item off. (It will be ultimately be transported to Pattana Nana for futher investigation.)
+When going through the wreckage they will find a magically sealed box, that looks like nothing but has a letter with it OR an Akmen Glee NPC will urgently ask them for help to bring it to the capital. They don't know what it is, they just took it for transport, but it is of critically important that it gets there. If they inspect the parcel they will find that they may need to atune to it, to find out where it needs to be delievered. They will deliver it and will learn to bring it to Pattana Nana for further analysis.
 
 Setting:
 Thick jungle forest along the lake. They can see the city in the distance if they make it to the west side of the peninsula.
 
 NPC:
-- Messanger again.
+- Body of [AkmenGlee] again.
 
 Quests 600 XP:
-- Med 4x150 = 600 XP: Successful delivery of the parcel
+- Med 4x150 = 600 XP: Successful delivery of the parcel to [Victor].
 - Hard 4x225XP = 1100 XP: If they help people, someone gets bitten by a snake and need to be stabalized. If they nourish and help people and they make it also to the town. Make thr survival of the group thr hard encounter, and make the NPCs normal people, clumsy as well
 
 Fights:
-- Easy 4x75 = 300 XP: 3x Giant Poisonous Snakes that have to be fought if they walk careless, or that can be circumvented if they are aware and clever.
-- Med 4x150 = 600 XP: 
+- GIVEN Easy 4x75 = 300 XP: 4x Giant Poisonous Snakes that have to be fought if they walk careless, or that can be circumvented if they are aware and clever.
+- Med 4x150 = 600 XP: Bandit attack in the night.
 
 Conclusion:
 The group arrives at the capital city and can get some rest and level up.
 
 ## Session 3 - Arrival in Tirtakencana Investigation of the Darkness in the North - 1200 XP
 Objective:
-The group is looking to set in the city, explore maybe a bit, stock supplies. Most importantly delivering the parcel and getting the overall story-defining call to investigate the north of Buana.
+The group is looking to set in the city, explore maybe a bit, stock supplies. They get rewarded for bringing the survivors to the town, make the local news and get the attention of ???. They will be invited to another quest (to see if they are worth it) to travel to Banua Tapel.
+
+Banua Tapel: 
+
+After this they will get the ultimate quest to check out the corruption in the north north.
+
+In addition they delivery the parcel to the destination and find a quirly crazy mad scientist, halfling with big eyes. That is explaning them about the rifts. The group will get the info to bring the shard to the wise group of Pattana Nana.
 
 Summary:
 
 
-Settting:
+Setting:
 There are rumors and story going around that the water of the north is becoming corputed and polluted. Nobody knows anything really for sure, since Tirtakencana is quite far away. But if the rumors are true this is somthing of high significance and unsettling.
 
 NPCs:
-- High Consile
+- High Council of Tirtakencana
+- [Victor] Quirly character that receives the parcel.
 
 Quests:
-- There are rumors and story going around that the water of the north is becoming corputed and polluted. Nobody knows anything really for sure, since Tirtakencana is quite far away. But if the rumors are true this is somthing of high significance and unsettling. The high consile of Tirtakencana is looking for information on that matter and is offering a high reward. 
+Easy - City quest by a random NPC
+Easy - They need a boat to go upstream to Tlabahe Biat? How do they get it?
+Med - Road encounter on the way to Banua Tapel
+Med - Riddle in the Town of 1000 Masks, Or encounter with a temple like Indiana Jones (Traps, Stoneballs etc.)
+Med - Find out what is up with Banua Tapel
+Med - Fight with some animals / goons
+Hard - EPIC fight in Banua Tapel (reward is the mask of Barong)
+Hard - There are rumors and story going around that the water of the north is becoming corputed and polluted. Nobody knows anything really for sure, since Tirtakencana is quite far away. But if the rumors are true this is somthing of high significance and unsettling. The High Council of Tirtakencana is looking for information on that matter and is offering a high reward. 
 
 ## Session 4 - 1700 XP
-Objective:
-The group hears about a faction that focused on enlightment and knowledge and about their ability to become gods.
-
 Summary:
 Setting:
 NPCs:
@@ -119,6 +130,9 @@ Figths:
 Conclusion:
 
 ## Session 5
+Objective:
+The group hears about a faction that focused on enlightment and knowledge and about their ability to become gods.
+
 Objective:
 Summary:
 Setting:
