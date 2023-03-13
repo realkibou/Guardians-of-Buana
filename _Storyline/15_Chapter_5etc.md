@@ -1,28 +1,4 @@
 # Storyline & Quests
-- [Storyline \& Quests](#storyline--quests)
-  - [Session 4 - 600 XP](#session-4---600-xp)
-    - [Summary:](#summary)
-    - [Setting:](#setting)
-    - [NPCs:](#npcs)
-    - [Quests:](#quests)
-    - [Figths:](#figths)
-    - [Conclusion: The group heads for north to investigate the darkness and to Pattana Rana for the parcel's delivery.](#conclusion-the-group-heads-for-north-to-investigate-the-darkness-and-to-pattana-rana-for-the-parcels-delivery)
-  - [Session 5](#session-5)
-    - [Objectives:](#objectives)
-    - [Summary:](#summary-1)
-    - [Setting:](#setting-1)
-    - [NPCs:](#npcs-1)
-    - [Quests:](#quests-1)
-    - [Figths:](#figths-1)
-    - [Conclusion:](#conclusion)
-  - [Session 6](#session-6)
-  - [Session 7](#session-7)
-  - [Session 8 - Epic conclusion, incompletion and emotions of loss \& hopelessness, but a gimps of hope](#session-8---epic-conclusion-incompletion-and-emotions-of-loss--hopelessness-but-a-gimps-of-hope)
-- [Quests](#quests-2)
-  - [The dark markings and missing daugther](#the-dark-markings-and-missing-daugther)
-  - [The Nourishers' Call - Gather Info of Pullution](#the-nourishers-call---gather-info-of-pullution)
-  - [Side Quests](#side-quests)
-  - [Faction Quests](#faction-quests)
 
 ## Session 4 - 600 XP
 ### Summary:
