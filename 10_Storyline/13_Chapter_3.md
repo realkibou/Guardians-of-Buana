@@ -75,6 +75,7 @@ After the boss fight the shaky bridge will fall into the river, but a big crack 
 - Med 4x150 = 600 XP: Successful investigation of Banua Tapel and report to [Ketut]
 
 > ## Barong (possessed)
+> https://aminoapps.com/c/officialdd/page/item/singo-barong/X0k5_DdjcXI78vnbN8RR4Jnbp3ZQdKr5aXL  
 > *Large celestial, Chaotic Evil*
 > ___
 > - **Armor Class** 13 (natural armor)
