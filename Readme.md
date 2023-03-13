@@ -3,7 +3,7 @@
 - [Origin Story of Guana \& its factions](10_Storyline/01_Origin_Story_and_Factions.md)
 - [Storyline \& Quests](10_Storyline/1010_Storyline_and_Quests.md)
   - [Prolog](10_Storyline/10_Prolog.md)
-  - [Chapter 1](10_Storyline/11_Chapter_1.md.md)
+  - [Chapter 1](10_Storyline/11_Chapter_1.md)
   - [Chapter 2](10_Storyline/12_Chapter_2.md)
   - [Chapter 3](10_Storyline/13_Chapter_3.md)
   - [Chapter 4](10_Storyline/14_Chapter_4.md)
