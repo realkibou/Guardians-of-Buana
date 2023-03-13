@@ -60,7 +60,7 @@ Hidden in this room are books about the lore of the ancient epoches, specificall
 A normal hallway with a small makeshift bridge to the next area as well as another room around the corner.
 15. The Room of Masks
 The wall is full of wooden masks, some of them simple, some of them very delicate and beautiful. However, there has been a change here. The room looks relativly fresh. Less dust, some crates have been moved.
-16. *BOSS FIGHT Hard 4x225 = 900 XP*  
+16. *BOSS FIGHT Hard 4x225 = 900 XP*  
 Fight against possessed Barong. After the fight the boss disapears and the [Mask of Barong](../20_Monsters_&_Infos/3_Mask_of_Barong.jpg) falls down right infront of the group. There is not much time to loot, as the temple is collapsing.
 17. *TRAP 5 – BOULDER CHASE Easy 4x75 = 300 XP*  
 After the boss fight the shaky bridge will fall into the river, but a big crack in the wall opens to the left of the PCs. This seems to be the most promising and only exit as of now. However, as they exit a big boulder breaks loose and chases the group. (this is basically like a chase, however the PCs are not the ones chasing, but being chased.)
