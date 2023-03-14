@@ -20,6 +20,8 @@ The group is looking to set in the city, explore maybe a bit, stock supplies. Th
 
 In addition they deliver the parcel to `Victor`, a quirky crazy mad scientist-like halfling with big eyes, who is explaining to them about the content of the parcel. It contains a magical shard that is used to open a higher plane of existence, but that can also be crazy talk from the people that came to this town years ago - that is all he knows. Yet, the group is tasked to bring it to his friend `KlaewKla` in Pattana Nana for more information. `Victor` also tasks the group with another quest here in Tirtakencana.
 
+There are also two city quests involving laying to rest a ghost as well as going for a sneaky treasure stealing mission in the docks.
+
 ## Setting
 The city of *Tirtakencana* sits right on the feet of the high mountain range behind it. Huge gates with delicate carvings depicting mythical creatures, emerging out of winding rivers, never-ending fields of flowers and rice terraces. 
 
