@@ -1,5 +1,5 @@
-# Chapter 1 - The Ship Journey & Attack of the crab 600 XP
-- [Chapter 1 - The Ship Journey \& Attack of the crab 600 XP](#chapter-1---the-ship-journey--attack-of-the-crab-600-xp)
+# Chapter 1 - The Ship Journey & Attack of the crab 600 XP / 4x Encounters
+- [Chapter 1 - The Ship Journey \& Attack of the crab 600 XP / 4x Encounters](#chapter-1---the-ship-journey--attack-of-the-crab-600-xp--4x-encounters)
   - [Objectives](#objectives)
   - [Summary](#summary)
   - [Setting](#setting)

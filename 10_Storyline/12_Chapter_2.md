@@ -1,5 +1,5 @@
-# Session 2 - The Crashlanding 600 XP
-- [Session 2 - The Crashlanding 600 XP](#session-2---the-crashlanding-600-xp)
+# Session 2 - The Crashlanding 600 XP / 4x Encounters
+- [Session 2 - The Crashlanding 600 XP / 4x Encounters](#session-2---the-crashlanding-600-xp--4x-encounters)
   - [Objectives](#objectives)
   - [Summary](#summary)
   - [Setting](#setting)

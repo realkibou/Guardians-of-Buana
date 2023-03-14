@@ -1,5 +1,5 @@
-# Session 3 - Arrival in Tirtakencana, Investigation of Banua Tapel and (partly) reveal of the parcel's secret 1700 XP / 
-- [Session 3 - Arrival in Tirtakencana, Investigation of Banua Tapel and (partly) reveal of the parcel's secret 1700 XP /](#session-3---arrival-in-tirtakencana-investigation-of-banua-tapel-and-partly-reveal-of-the-parcels-secret-1700-xp-)
+# Session 3 - Arrival in Tirtakencana, Investigation of Banua Tapel and (partly) reveal of the parcel's secret 1700 XP / 14x Encounters
+- [Session 3 - Arrival in Tirtakencana, Investigation of Banua Tapel and (partly) reveal of the parcel's secret 1700 XP / 14x Encounters](#session-3---arrival-in-tirtakencana-investigation-of-banua-tapel-and-partly-reveal-of-the-parcels-secret-1700-xp--14x-encounters)
   - [Objectives](#objectives)
   - [Summary](#summary)
   - [Setting](#setting)
