@@ -20,17 +20,21 @@ When going through the wreckage they will find a magically sealed parcel, that l
 Thick jungle forest along the lake. They can see the city in the distance if they make it to the west side of the peninsula.
 
 ## NPCs
-- Body of [AkmenGlee]
+- Body of **AkmenGlee**
 - Four (one for each player) crashlanded humans, unconscious and wounded. Have to be healed or carried. They know the direction roughly if asked. 
   - https://www.kassoon.com/dnd/npc-generator/00000120000100000/1678348680938082/werydd-bofdann-female-dwarf/
 
 ## Quests 600 XP
-- Med 4x150 = 600 XP: Successful delivery of the parcel to [Victor].
-- Hard 4x225XP = 1100 XP: If they help people, someone gets bitten by a snake and need to be stabalized. If they nourish and help people and they make it also to the town. Make thr survival of the group thr hard encounter, and make the NPCs normal people, clumsy as well
+- *Med 4x150 = 600 XP:*  
+Successful delivery of the parcel to **Victor**.
+- *Hard 4x225XP = 1100 XP:*  
+If they help people, someone gets bitten by a snake and need to be stabalized. If they nourish and help people and they make it also to the town. Make thr survival of the group thr hard encounter, and make the NPCs normal people, clumsy as well
 
 ## Fights
-- GIVEN Easy 4x75 = 300 XP: 4x Giant Poisonous Snakes that have to be fought if they walk careless, or that can be circumvented if they are aware and clever.
-- Med 4x150 = 600 XP: If the group decides to take a long rest, Bandit attack in the night. Because they see there are injured ones and they want to take advantage of the situation.
+- GIVEN *Easy 4x75 = 300 XP:*  
+4x Giant Poisonous Snakes that have to be fought if they walk careless, or that can be circumvented if they are aware and clever.
+- Med *4x150 = 600 XP:*  
+If the group decides to take a long rest, Bandit attack in the night. Because they see there are injured ones and they want to take advantage of the situation. 10x Bandits swarm them.
 
 ## Conclusion
 The group arrives at the capital city, and hands over the wounded to the local hospital and will gain the  XP reward.
